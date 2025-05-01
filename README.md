@@ -1,10 +1,7 @@
-# Discord League of Legends Customs Bot for tracking participating players' scores and creating different teams
+# LCBot Discord Bot
+Discord League of Legends Customs Bot for tracking participating players' scores and creating different teams
 
-
-
-## LCBot Preview
-
-
+## UI Preview
 
 ![one](https://github.com/user-attachments/assets/31bf2d84-4e60-498c-ac5c-b056ab696458)
 
