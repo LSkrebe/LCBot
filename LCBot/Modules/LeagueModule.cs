@@ -348,9 +348,9 @@ public class LeagueModule : ModuleBase<SocketCommandContext>
         players.Sort((x, y) => y.Elo.CompareTo(x.Elo));
 
         // Header for leaderboard
-        string reply = "Top Players by Wins:\n";
+        string reply = "";
         reply += $"{"Rank",-8}{"Name",-20}{"W/L",-8}{"WinRate",-10}{"Elo"}\n";
-        reply += new string('-', 40) + "\n";
+        reply += new string('-', 50) + "\n";
 
         // Build leaderboard content
         for (int i = 0; i < players.Count; i++)

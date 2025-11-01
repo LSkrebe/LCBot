@@ -1,0 +1,234 @@
+[
+  {
+    "Win": 6,
+    "Loss": 0,
+    "UID": 493028211337461781,
+    "Elo": 405,
+    "WinFactor": 60,
+    "LossFactor": 40
+  },
+  {
+    "Win": 6,
+    "Loss": 3,
+    "UID": 389834925915897857,
+    "Elo": 353,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 4,
+    "Loss": 0,
+    "UID": 691778247670628434,
+    "Elo": 332,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 4,
+    "Loss": 0,
+    "UID": 277107365633851393,
+    "Elo": 325,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 5,
+    "Loss": 2,
+    "UID": 291896006541312001,
+    "Elo": 325,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 6,
+    "Loss": 4,
+    "UID": 440782515456966657,
+    "Elo": 320,
+    "WinFactor": 60,
+    "LossFactor": 40
+  },
+  {
+    "Win": 6,
+    "Loss": 4,
+    "UID": 760045480095907840,
+    "Elo": 319,
+    "WinFactor": 60,
+    "LossFactor": 40
+  },
+  {
+    "Win": 3,
+    "Loss": 1,
+    "UID": 187285276509339648,
+    "Elo": 279,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 2,
+    "Loss": 0,
+    "UID": 347450721156857866,
+    "Elo": 267,
+    "WinFactor": 60,
+    "LossFactor": 40
+  },
+  {
+    "Win": 4,
+    "Loss": 4,
+    "UID": 335760734807916545,
+    "Elo": 265,
+    "WinFactor": 50,
+    "LossFactor": 50
+  },
+  {
+    "Win": 9,
+    "Loss": 9,
+    "UID": 502818380613681181,
+    "Elo": 248,
+    "WinFactor": 50,
+    "LossFactor": 50
+  },
+  {
+    "Win": 2,
+    "Loss": 1,
+    "UID": 344393926800703489,
+    "Elo": 243,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 1,
+    "Loss": 0,
+    "UID": 903304780963790898,
+    "Elo": 234,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 2,
+    "Loss": 2,
+    "UID": 332248040884797451,
+    "Elo": 223,
+    "WinFactor": 50,
+    "LossFactor": 50
+  },
+  {
+    "Win": 1,
+    "Loss": 1,
+    "UID": 425309878509371393,
+    "Elo": 219,
+    "WinFactor": 60,
+    "LossFactor": 40
+  },
+  {
+    "Win": 2,
+    "Loss": 2,
+    "UID": 335053368655347723,
+    "Elo": 215,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 1,
+    "Loss": 1,
+    "UID": 871089608044191774,
+    "Elo": 212,
+    "WinFactor": 70,
+    "LossFactor": 30
+  },
+  {
+    "Win": 1,
+    "Loss": 2,
+    "UID": 694089268397604975,
+    "Elo": 197,
+    "WinFactor": 60,
+    "LossFactor": 40
+  },
+  {
+    "Win": 4,
+    "Loss": 6,
+    "UID": 252482161851105280,
+    "Elo": 195,
+    "WinFactor": 40,
+    "LossFactor": 60
+  },
+  {
+    "Win": 1,
+    "Loss": 2,
+    "UID": 694101065112617040,
+    "Elo": 193,
+    "WinFactor": 40,
+    "LossFactor": 60
+  },
+  {
+    "Win": 1,
+    "Loss": 3,
+    "UID": 500589053046161419,
+    "Elo": 186,
+    "WinFactor": 50,
+    "LossFactor": 50
+  },
+  {
+    "Win": 8,
+    "Loss": 10,
+    "UID": 223497491650314241,
+    "Elo": 184,
+    "WinFactor": 30,
+    "LossFactor": 70
+  },
+  {
+    "Win": 1,
+    "Loss": 3,
+    "UID": 245872357808406530,
+    "Elo": 179,
+    "WinFactor": 40,
+    "LossFactor": 60
+  },
+  {
+    "Win": 2,
+    "Loss": 4,
+    "UID": 462335607889461309,
+    "Elo": 178,
+    "WinFactor": 40,
+    "LossFactor": 60
+  },
+  {
+    "Win": 1,
+    "Loss": 3,
+    "UID": 290514241772060672,
+    "Elo": 154,
+    "WinFactor": 30,
+    "LossFactor": 70
+  },
+  {
+    "Win": 1,
+    "Loss": 4,
+    "UID": 287940993070923776,
+    "Elo": 138,
+    "WinFactor": 30,
+    "LossFactor": 70
+  },
+  {
+    "Win": 2,
+    "Loss": 5,
+    "UID": 447794095713288194,
+    "Elo": 120,
+    "WinFactor": 40,
+    "LossFactor": 60
+  },
+  {
+    "Win": 0,
+    "Loss": 4,
+    "UID": 410880351120916491,
+    "Elo": 114,
+    "WinFactor": 40,
+    "LossFactor": 60
+  },
+  {
+    "Win": 1,
+    "Loss": 6,
+    "UID": 619555976512536589,
+    "Elo": 73,
+    "WinFactor": 30,
+    "LossFactor": 70
+  }
+]
