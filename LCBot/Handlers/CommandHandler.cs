@@ -51,8 +51,24 @@ public class CommandHandler : DiscordClientService
     private async Task HandleButton(SocketMessageComponent component)
     {
         var customId = component.Data.CustomId;
-        if (customId.StartsWith("pick_")) await _leagueModule.PickButtonAsync(component);
+
+        try
+        {
+            if (customId.StartsWith("pick_"))
+            {
+                await _leagueModule.PickButtonAsync(component);
+            }
+            else if (customId.StartsWith("start_"))
+            {
+                await _leagueModule.StartButtonAsync(component);
+            }
+        }
+        catch (Exception)
+        {
+            await component.FollowupAsync("❌ Something went wrong handling that button.", ephemeral: true);
+        }
     }
+
 
     public async Task CommandExecutedAsync(Optional<CommandInfo> command, ICommandContext context, IResult result)
     {

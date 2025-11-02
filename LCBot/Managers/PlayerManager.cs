@@ -32,6 +32,8 @@ public class PlayerManager
     private const string FilePath = "players.json"; // Path to store player data
     private List<Player> _players;
 
+    private static BetManager betManager = new BetManager();
+
     public PlayerManager()
     {
         _players = LoadPlayers();
@@ -91,6 +93,11 @@ public class PlayerManager
         if (win)
         {
             points = (int)(player.WinFactor * (1 - teamE));
+
+            if(betManager.HasBet(uid)){
+                points *= 2;
+            }
+
             player.Elo += points;
 
             if (player.WinFactor < 70) player.WinFactor += 10;
@@ -101,6 +108,11 @@ public class PlayerManager
         else
         {
             points = (int)(player.LossFactor * (0 - teamE));
+
+            if(betManager.HasBet(uid)){
+                points *= 2;
+            }
+
             player.Elo += points;
 
             if (player.WinFactor > 30) player.WinFactor -= 10;
